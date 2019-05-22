@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423494264484",
+    "firebase_url": "https://attendme-db683.firebaseio.com",
+    "project_id": "attendme-db683",
+    "storage_bucket": "attendme-db683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423494264484:android:ed19998b1dbfc3d5",
+        "android_client_info": {
+          "package_name": "uoit.ca.attendme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423494264484-1hjtikf2rib2jdbkguj3o0g942brko85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7GCCcB0w_os86aK8ad1wnmjFPKT1a4FQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
